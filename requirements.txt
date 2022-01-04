@@ -1,0 +1,5 @@
+###### PASOS ######
+#1 pip install -r requirements.txt
+fastapi==0.66.1
+uvicorn==0.14.0
+gunicorn==20.0.4
